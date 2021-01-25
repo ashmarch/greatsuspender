@@ -14,7 +14,7 @@ Do not download from Chrome store it is not mirrored from GitHub and the src has
 
 ### Install as an extension from source
 
-1. Download the **[main branch](https://github.com/ashmarch/greatsuspender/releases/tag/1.0.0)** and unarchive to your preferred location (whichever suits you).
+1. Download the **[main branch](https://github.com/ashmarch/greatsuspender/releases/tag/1.0.1)** and unarchive to your preferred location (whichever suits you).
 2. Using **Google Chrome** browser, navigate to chrome://extensions/ and enable "Developer mode" in the upper right corner.
 3. Click on the <kbd>Load unpacked extension...</kbd> button.
 4. Browse to the src directory of the unarchived folder and confirm.
