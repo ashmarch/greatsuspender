@@ -10,7 +10,7 @@
   }
 
   gsUtils.documentReadyAndLocalisedAsPromsied(document).then(function() {
-    var versionEl = document.getElementById('aboutVersion');
+    const versionEl = document.getElementById('aboutVersion');
     versionEl.innerHTML = 'v' + chrome.runtime.getManifest().version;
 
     //hide incompatible sidebar items if in incognito mode
@@ -24,5 +24,4 @@
     }
   });
 
-  gsAnalytics.reportPageView('about.html');
 })(this);
