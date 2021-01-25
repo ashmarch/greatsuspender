@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/greatsuspender/thegreatsuspender.git"
+    "url": "git://github.com:ashmarch/greatsuspender.git"
   },
   "keywords": [
     "chrome",
@@ -22,6 +22,12 @@
     "tab"
   ],
   "author": "deanoemcke",
+  "contributors": [
+    {
+      "name": "Ashley Marchington",
+      "email": "ashmarchington@gmail.com"
+    }
+  ],
   "license": "GPLv2",
   "bugs": {
     "url": "https://github.com/greatsuspender/thegreatsuspender/issues"
